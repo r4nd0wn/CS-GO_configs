@@ -17,7 +17,7 @@ Hilfe zu IDS:
 # 128 Tick Server
 Um in den Genuss des 128 Ticks zu kommen muss entweder in eurem Startparameter
   -tickrate 128
-stehen oder in eurer autoexec sowas ähnliches
+stehen und in eurer autoexec sowas ähnliches
   rate "128000"
   cl_updaterate "128"
   cl_cmdrate "128"
