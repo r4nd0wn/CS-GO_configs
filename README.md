@@ -14,5 +14,17 @@ Per Konsole in CS:GO laden:
 Hilfe zu IDS:
   Falls ihr mehrer Accounts habt, sollte euer main der sein wo mehr Ordner als nur der für 730 ist. Die 730 ist die Steam ID für CS:GO.
   
+# 128 Tick Server
+Um in den Genuss des 128 Ticks zu kommen muss entweder in eurem Startparameter
+  -tickrate 128
+stehen oder in eurer autoexec sowas ähnliches
+  rate "128000"
+  cl_updaterate "128"
+  cl_cmdrate "128"
+  cl_interp_ratio "2"
+  cl_interp "0"
+  cl_lagcompensation "1"
+  cl_predict "1"
+  
 Greets
 r4nd0wn
